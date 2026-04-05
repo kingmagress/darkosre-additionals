@@ -1,4 +1,4 @@
-# darkos-additionals
+# darkosre-additionals
 
 ## Introduction
 This repository contains some additional scripts taken from AeolusUX/ArkOS-R3XS that I find useful.
